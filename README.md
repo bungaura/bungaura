@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX design, web development, data analysis, and many more!
 - 🌱 I’m currently learning C/C++, python, HTML, CSS, JS
 - 💞️ I’m looking to collaborate on projects in software development
-- 📫 Reach me through my GitHub account @bungaura
+- 📫 Reach me through bungaurap@gmail.com or this github account
 
 <!---
 bungaura/bungaura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
